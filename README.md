@@ -1,8 +1,8 @@
-# Ignews 💛🚀
+# Carrinho de Compra 💛🚀
 
 &nbsp;
 
-![mock1](https://user-images.githubusercontent.com/71772559/113495090-3e529600-94c5-11eb-953c-53ab4f71fc15.png)
+![mock1](https://github.com/jorgefelipe/Criando-um-hook-de-carrinho-de-compra/blob/master/tenis.png)
 
 ## 📚 Informações sobre o projeto
 
