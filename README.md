@@ -34,7 +34,7 @@
 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/71772559/113495413-dc476000-94c7-11eb-9d95-d3a301fc989b.gif" width="100%" />
+<img src="https://github.com/jorgefelipe/Criando-um-hook-de-carrinho-de-compra/blob/master/tenis3.png" width="100%" />
 
 &nbsp;
 
